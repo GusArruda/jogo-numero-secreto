@@ -8,9 +8,6 @@ Quando o usuário acerta o número, é exibida uma mensagem com o número de ten
 O jogo gera números aleatórios exclusivos a cada rodada, evitando números repetidos.
 O jogo reinicia após o usuário acertar o número secreto.
 
-Estrutura do Código
-O código é composto pelas seguintes funções:
-
 Tecnologias utilizadas
 HTML
 JavaScript
